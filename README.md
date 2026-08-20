@@ -1,4 +1,4 @@
-# 🚀 Hi there! I'm Lucas Caimi 👋
+#  Hi there! I'm Lucas 👋
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasdcaimi/" target="_blank">
