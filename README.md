@@ -39,15 +39,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasdcaimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lucas's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdcaimi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/lucasdcaimi](https://www.linkedin.com/in/lucasdcaimi/)
