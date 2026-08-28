@@ -40,3 +40,4 @@
 ### Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/lucasdcaimi](https://www.linkedin.com/in/lucasdcaimi/)
+- **Portafolio:** [lucascaimi.com](https://www.lucascaimi.com)
